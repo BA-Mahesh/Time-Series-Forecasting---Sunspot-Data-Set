@@ -25,7 +25,7 @@ pmdarima
 10) Train and Test
 
 
-
+Summary : We have succesfully Forcasted the Sun Spot Pattern by using the Time Series¶
 
 
 
